@@ -1,7 +1,11 @@
 .logo {
-  display: none;
-  @include media-breakpoint-up(sm) {
-    display: block;
+  font-family: 'Playfair Display';
+	font-style: normal;
+	font-weight: 400;
+  font-size: 48px;
+  // display: none;
+  // @include media-breakpoint-up(sm) {
+  //   display: block;
   }
   img {
     max-width: unset;
