@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Hello there!
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+I am now blogging on [Medium]((https://medium.com/@johnlaudun)) and microblogging on [Mastodon](@johnlaudun@hcommons.social). Almost everything else should be here, or will be shortly. Drop me a note in the fediverse if there's something here you want. 
